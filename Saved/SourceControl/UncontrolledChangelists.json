@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine/WarehouseWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/UnrealEngine/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/UnrealEngine/WarehouseWreckage/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
